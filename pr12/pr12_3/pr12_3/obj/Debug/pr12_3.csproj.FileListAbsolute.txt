@@ -1,0 +1,11 @@
+D:\pr11_12\pr12_3\pr12_3\bin\Debug\pr12_3.exe.config
+D:\pr11_12\pr12_3\pr12_3\bin\Debug\pr12_3.exe
+D:\pr11_12\pr12_3\pr12_3\bin\Debug\pr12_3.pdb
+D:\pr11_12\pr12_3\pr12_3\obj\Debug\pr12_3.csproj.AssemblyReference.cache
+D:\pr11_12\pr12_3\pr12_3\obj\Debug\pr12_3.csproj.SuggestedBindingRedirects.cache
+D:\pr11_12\pr12_3\pr12_3\obj\Debug\pr12_3.Robot.resources
+D:\pr11_12\pr12_3\pr12_3\obj\Debug\pr12_3.Properties.Resources.resources
+D:\pr11_12\pr12_3\pr12_3\obj\Debug\pr12_3.csproj.GenerateResource.cache
+D:\pr11_12\pr12_3\pr12_3\obj\Debug\pr12_3.csproj.CoreCompileInputs.cache
+D:\pr11_12\pr12_3\pr12_3\obj\Debug\pr12_3.exe
+D:\pr11_12\pr12_3\pr12_3\obj\Debug\pr12_3.pdb
